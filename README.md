@@ -1,6 +1,6 @@
 # Alarm Clock
 
-A simple alarm clock application.
+A simple alarm clock application built with Java.
 
 ## Features
 
@@ -9,11 +9,17 @@ A simple alarm clock application.
 
 ## Technologies
 
-* [Specify the main programming language and any frameworks/libraries used. E.g., Python with Tkinter, JavaScript for a web app]
+* Java
 
 ## Getting Started
 
 1.  Clone: `git clone https://github.com/RuslanZS8/Alarm-Clock-.git`
-2.  [Add instructions on how to run the application. E.g., "Run the main Python script.", "Open the index.html in your browser."]
+2.  To run, you will likely need to compile the Java source files and then execute the main class. Instructions may vary depending on your IDE or build system. For a basic setup:
+    ```bash
+    # Navigate to the source directory if needed
+    javac MainClassName.java  # Replace MainClassName with the name of your main class
+    java MainClassName
+    ```
+    [Adjust the compilation and execution commands based on your project structure.]
 
 More details to come.
